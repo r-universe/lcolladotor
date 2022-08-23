@@ -1,5 +1,8 @@
 [
   {
+    "package": "biocthis"
+  },
+  {
     "package": "derfinder"
   }
 ]
